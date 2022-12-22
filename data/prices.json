@@ -1,0 +1,1668 @@
+[
+  {
+    "item": "Dinosaur Hood",
+    "ingredients": [
+      {
+        "price1": "1,750c",
+        "price2": "2,500c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Hood",
+    "category": "Clothes",
+    "rarity": "-"
+  },
+  {
+    "item": "Dinosaur Shirt",
+    "ingredients": [
+      {
+        "price1": "1,750c",
+        "price2": "2,500c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Shirt",
+    "category": "Clothes",
+    "rarity": "-"
+  },
+  {
+    "item": "Dinosaur Pants",
+    "ingredients": [
+      {
+        "price1": "1,750c",
+        "price2": "2,500c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Pants",
+    "category": "Clothes",
+    "rarity": "-"
+  },
+  {
+    "item": "Dinosaur Tail",
+    "ingredients": [
+      {
+        "price1": "1,750c",
+        "price2": "2,500c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Tail",
+    "category": "Clothes",
+    "rarity": "-"
+  },
+  {
+    "item": "Black Cat Hood",
+    "ingredients": [
+      {
+        "price1": "700c",
+        "price2": "1,000c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Hood",
+    "category": "Clothes",
+    "rarity": "-"
+  },
+  {
+    "item": "Black Cat Shirt",
+    "ingredients": [
+      {
+        "price1": "700c",
+        "price2": "1,000c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Shirt",
+    "category": "Clothes",
+    "rarity": "-"
+  },
+  {
+    "item": "Black Cat Pants",
+    "ingredients": [
+      {
+        "price1": "700c",
+        "price2": "1,000c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Pants",
+    "category": "Clothes",
+    "rarity": "-"
+  },
+  {
+    "item": "Black Cat Tail",
+    "ingredients": [
+      {
+        "price1": "700c",
+        "price2": "1,000c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Tail",
+    "category": "Clothes",
+    "rarity": "-"
+  },
+  {
+    "item": "Ninja Mask",
+    "ingredients": [
+      {
+        "price1": "700c",
+        "price2": "1,000c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Mask",
+    "category": "Clothes",
+    "rarity": "-"
+  },
+  {
+    "item": "Ninja Shirt",
+    "ingredients": [
+      {
+        "price1": "700c",
+        "price2": "1,000c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Shirt",
+    "category": "Clothes",
+    "rarity": "-"
+  },
+  {
+    "item": "Ninja Pants",
+    "ingredients": [
+      {
+        "price1": "1,500c",
+        "price2": "2,500c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Pants",
+    "category": "Clothes",
+    "rarity": "-"
+  },
+  {
+    "item": "Katana On Back",
+    "ingredients": [
+      {
+        "price1": "4,500c",
+        "price2": "6,000c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Backpack",
+    "category": "Clothes",
+    "rarity": "-"
+  },
+  {
+    "item": "Goblin Mask",
+    "ingredients": [
+      {
+        "price1": "200c",
+        "price2": "500c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Mask",
+    "category": "Clothes",
+    "rarity": "-"
+  },
+  {
+    "item": "BigHead Mask",
+    "ingredients": [
+      {
+        "price1": "200c",
+        "price2": "500c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Mask",
+    "category": "Clothes",
+    "rarity": "-"
+  },
+  {
+    "item": "Witch Mask",
+    "ingredients": [
+      {
+        "price1": "200c",
+        "price2": "500c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Mask",
+    "category": "Clothes",
+    "rarity": "-"
+  },
+  {
+    "item": "Third Eye",
+    "ingredients": [
+      {
+        "price1": "700c",
+        "price2": "1,200c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Mask",
+    "category": "Clothes",
+    "rarity": "-"
+  },
+  {
+    "item": "Candle Hat",
+    "ingredients": [
+      {
+        "price1": "700c",
+        "price2": "1,200c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Hat",
+    "category": "Clothes",
+    "rarity": "-"
+  },
+  {
+    "item": "Hair Over Face",
+    "ingredients": [
+      {
+        "price1": "700c",
+        "price2": "1,500c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Hair",
+    "category": "Clothes",
+    "rarity": "-"
+  },
+  {
+    "item": "Ghost Designed Jacket",
+    "ingredients": [
+      {
+        "price1": "1,000c",
+        "price2": "2,000c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Shirt",
+    "category": "Clothes",
+    "rarity": "-"
+  },
+  {
+    "item": "Pumpkin Shirt",
+    "ingredients": [
+      {
+        "price1": "700c",
+        "price2": "1,300c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Hat",
+    "category": "Clothes",
+    "rarity": "-"
+  },
+  {
+    "item": "Pumpkin Pants",
+    "ingredients": [
+      {
+        "price1": "700c",
+        "price2": "1,300c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Pants",
+    "category": "Clothes",
+    "rarity": "-"
+  },
+  {
+    "item": "Golden Demon Mask",
+    "ingredients": [
+      {
+        "price1": "700c",
+        "price2": "1,200c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Mask",
+    "category": "Clothes",
+    "rarity": "-"
+  },
+  {
+    "item": "Demon Mask",
+    "ingredients": [
+      {
+        "price1": "1,000c",
+        "price2": "2,000c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Mask",
+    "category": "Clothes",
+    "rarity": "-"
+  },
+  {
+    "item": "Wizard's Spoellbook",
+    "ingredients": [
+      {
+        "price1": "20,000c",
+        "price2": "25,000c",
+        "price": "0"
+      }
+    ],
+    "state": "Unstable",
+    "type": "Wand",
+    "category": "Wands",
+    "rarity": "-"
+  },
+  {
+    "item": "Flashlight",
+    "ingredients": [
+      {
+        "price1": "3,000c",
+        "price2": "5,000c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Wand",
+    "category": "Wands",
+    "rarity": "-"
+  },
+  {
+    "item": "Knife",
+    "ingredients": [
+      {
+        "price1": "9,000c",
+        "price2": "12,000c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Wand",
+    "category": "Wands",
+    "rarity": "-"
+  },
+  {
+    "item": "Christmas Grouch",
+    "ingredients": [
+      {
+        "price1": "5,000c",
+        "price2": "9,000c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Mask",
+    "category": "Clothes",
+    "rarity": "-"
+  },
+  {
+    "item": "Snow Qbee Head",
+    "ingredients": [
+      {
+        "price1": "500c",
+        "price2": "800c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Mask",
+    "category": "Clothes",
+    "rarity": "-"
+  },
+  {
+    "item": "Snow Qbee Top",
+    "ingredients": [
+      {
+        "price1": "500c",
+        "price2": "800c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Shirt",
+    "category": "Clothes",
+    "rarity": "-"
+  },
+  {
+    "item": "Snow Qbee Pants",
+    "ingredients": [
+      {
+        "price1": "500c",
+        "price2": "800c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Pants",
+    "category": "Clothes",
+    "rarity": "-"
+  },
+  {
+    "item": "Snowflake Staff",
+    "ingredients": [
+      {
+        "price1": "700c",
+        "price2": "1,000c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Wand",
+    "category": "Wands",
+    "rarity": "-"
+  },
+  {
+    "item": "Winter Scarf",
+    "ingredients": [
+      {
+        "price1": "1,500c",
+        "price2": "2,500c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Scarf",
+    "category": "Clothes",
+    "rarity": "-"
+  },
+  {
+    "item": "Winter Scarf",
+    "ingredients": [
+      {
+        "price1": "1,500c",
+        "price2": "2,500c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Scarf",
+    "category": "Clothes",
+    "rarity": "-"
+  },
+  {
+    "item": "Icy Wings",
+    "ingredients": [
+      {
+        "price1": "500c",
+        "price2": "1,000c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Wings",
+    "category": "Clothes",
+    "rarity": "-"
+  },
+  {
+    "item": "Ice Pop",
+    "ingredients": [
+      {
+        "price1": "350c",
+        "price2": "450c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Wand",
+    "category": "Wands",
+    "rarity": "-"
+  },
+  {
+    "item": "Ice Pop 2",
+    "ingredients": [
+      {
+        "price1": "350c",
+        "price2": "450c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Wand",
+    "category": "Wands",
+    "rarity": "-"
+  },
+  {
+    "item": "Red Ski Goggles",
+    "ingredients": [
+      {
+        "price1": "100c",
+        "price2": "150c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Mask",
+    "category": "Clothes",
+    "rarity": "-"
+  },
+  {
+    "item": "Blue Ski Goggles",
+    "ingredients": [
+      {
+        "price1": "100c",
+        "price2": "150c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Mask",
+    "category": "Clothes",
+    "rarity": "-"
+  },
+  {
+    "item": "Red Ski Mask",
+    "ingredients": [
+      {
+        "price1": "100c",
+        "price2": "150c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Mask",
+    "category": "Clothes",
+    "rarity": "-"
+  },
+  {
+    "item": "Blue Ski Mask",
+    "ingredients": [
+      {
+        "price1": "100c",
+        "price2": "150c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Mask",
+    "category": "Clothes",
+    "rarity": "-"
+  },
+  {
+    "item": "Holly Crown",
+    "ingredients": [
+      {
+        "price1": "300c",
+        "price2": "450c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Hat",
+    "category": "Clothes",
+    "rarity": "-"
+  },
+  {
+    "item": "Dino Head",
+    "ingredients": [
+      {
+        "price1": "220,000c",
+        "price2": "250,000c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Mask",
+    "category": "Clothes",
+    "rarity": "-"
+  },
+  {
+    "item": "Monster Head",
+    "ingredients": [
+      {
+        "price1": "165,000c",
+        "price2": "185,000c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Mask",
+    "category": "Clothes",
+    "rarity": "-"
+  },
+  {
+    "item": "Frankenstein Head",
+    "ingredients": [
+      {
+        "price1": "850c",
+        "price2": "1,200c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Mask",
+    "category": "Clothes",
+    "rarity": "-"
+  },
+  {
+    "item": "Ghost Costume",
+    "ingredients": [
+      {
+        "price1": "600,000c",
+        "price2": "650,000c",
+        "price": "0"
+      }
+    ],
+    "state": "Unstable",
+    "type": "Costume",
+    "category": "Clothes",
+    "rarity": "-"
+  },
+  {
+    "item": "Slime Costume",
+    "ingredients": [
+      {
+        "price1": "200,000c",
+        "price2": "230,000c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Costume",
+    "category": "Clothes",
+    "rarity": "-"
+  },
+  {
+    "item": "Headless",
+    "ingredients": [
+      {
+        "price1": "870,000c",
+        "price2": "920,000c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Mask",
+    "category": "Clothes",
+    "rarity": "-"
+  },
+  {
+    "item": "Head Vampire Outfit",
+    "ingredients": [
+      {
+        "price1": "210,000c",
+        "price2": "230,000c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Mask",
+    "category": "Clothes",
+    "rarity": "-"
+  },
+  {
+    "item": "Werewolf Head",
+    "ingredients": [
+      {
+        "price1": "58,000c",
+        "price2": "65,000c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Mask",
+    "category": "Clothes",
+    "rarity": "-"
+  },
+  {
+    "item": "Shark Head",
+    "ingredients": [
+      {
+        "price1": "110,000c",
+        "price2": "130,000c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Mask",
+    "category": "Clothes",
+    "rarity": "-"
+  },
+  {
+    "item": "Sub-Vampire Outfit",
+    "ingredients": [
+      {
+        "price1": "3,000c",
+        "price2": "5,000c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Mask",
+    "category": "Clothes",
+    "rarity": "-"
+  },
+  {
+    "item": "Zombie Head",
+    "ingredients": [
+      {
+        "price1": "20,000c",
+        "price2": "25,000c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Mask",
+    "category": "Clothes",
+    "rarity": "-"
+  },
+  {
+    "item": "Zombie Shirt",
+    "ingredients": [
+      {
+        "price1": "10,000c",
+        "price2": "15,000c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Shirt",
+    "category": "Clothes",
+    "rarity": "-"
+  },
+  {
+    "item": "Zombie Pants",
+    "ingredients": [
+      {
+        "price1": "15,000c",
+        "price2": "20,000c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Pants",
+    "category": "Clothes",
+    "rarity": "-"
+  },
+  {
+    "item": "Dark Traveller Head",
+    "ingredients": [
+      {
+        "price1": "1,500c",
+        "price2": "3,000c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Mask",
+    "category": "Clothes",
+    "rarity": "-"
+  },
+  {
+    "item": "Dark Traveller Shirt",
+    "ingredients": [
+      {
+        "price1": "7,500c",
+        "price2": "10,000c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Shirt",
+    "category": "Clothes",
+    "rarity": "-"
+  },
+  {
+    "item": "Dark Traveller Pants",
+    "ingredients": [
+      {
+        "price1": "7,500c",
+        "price2": "10,000c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Pants",
+    "category": "Clothes",
+    "rarity": "-"
+  },
+  {
+    "item": "Mummy Head",
+    "ingredients": [
+      {
+        "price1": "1,500c",
+        "price2": "2,000c",
+        "price": "0"
+      }
+    ],
+    "state": "Unstable",
+    "type": "Mask",
+    "category": "Clothes",
+    "rarity": "-"
+  },
+  {
+    "item": "Mummy Shirt",
+    "ingredients": [
+      {
+        "price1": "4,000c",
+        "price2": "5,500c",
+        "price": "0"
+      }
+    ],
+    "state": "Unstable",
+    "type": "Shirt",
+    "category": "Clothes",
+    "rarity": "-"
+  },
+  {
+    "item": "Mummy Pants",
+    "ingredients": [
+      {
+        "price1": "13,000c",
+        "price2": "17,000c",
+        "price": "0"
+      }
+    ],
+    "state": "Unstable",
+    "type": "Pants",
+    "category": "Clothes",
+    "rarity": "-"
+  },
+  {
+    "item": "Spiderbrella",
+    "ingredients": [
+      {
+        "price1": "1,500c",
+        "price2": "2,200c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Wand",
+    "category": "Clothes",
+    "rarity": "-"
+  },
+  {
+    "item": "Coal",
+    "ingredients": [
+      {
+        "price1": "12/c",
+        "price2": "6/c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Ore",
+    "category": "Ores",
+    "rarity": "-"
+  },
+  {
+    "item": "Gold",
+    "ingredients": [
+      {
+        "price1": "6/c",
+        "price2": "2/c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Ore",
+    "category": "Ores",
+    "rarity": "-"
+  },
+  {
+    "item": "Iron",
+    "ingredients": [
+      {
+        "price1": "12/c",
+        "price2": "6/c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Ore",
+    "category": "Ores",
+    "rarity": "-"
+  },
+  {
+    "item": "Silver",
+    "ingredients": [
+      {
+        "price1": "7c",
+        "price2": "3/c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Ore",
+    "category": "Ores",
+    "rarity": "-"
+  },
+  {
+    "item": "Stone",
+    "ingredients": [
+      {
+        "price1": "9/c",
+        "price2": "4/c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Ore",
+    "category": "Ores",
+    "rarity": "-"
+  },
+  {
+    "item": "Blue Cube",
+    "ingredients": [
+      {
+        "price1": "150c",
+        "price2": "300c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Cube",
+    "category": "Dehydrated Cubes",
+    "rarity": "-"
+  },
+  {
+    "item": "Gold Cube",
+    "ingredients": [
+      {
+        "price1": "2,500c",
+        "price2": "3,500c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Cube",
+    "category": "Dehydrated Cubes",
+    "rarity": "Very Rare"
+  },
+  {
+    "item": "Green Cube",
+    "ingredients": [
+      {
+        "price1": "500c",
+        "price2": "1,000c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Cube",
+    "category": "Dehydrated Cubes",
+    "rarity": "Rare"
+  },
+  {
+    "item": "Purple Cube",
+    "ingredients": [
+      {
+        "price1": "15c",
+        "price2": "30c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Cube",
+    "category": "Dehydrated Cubes",
+    "rarity": "-"
+  },
+  {
+    "item": "Red Cube",
+    "ingredients": [
+      {
+        "price1": "10c",
+        "price2": "25c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Cube",
+    "category": "Dehydrated Cubes",
+    "rarity": "Common"
+  },
+  {
+    "item": "Decent Farm Soil",
+    "ingredients": [
+      {
+        "price1": "3c",
+        "price2": "5c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Block",
+    "category": "Farming",
+    "rarity": "-"
+  },
+  {
+    "item": "Fairy Soil",
+    "ingredients": [
+      {
+        "price1": "25c",
+        "price2": "50c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Block",
+    "category": "Farming",
+    "rarity": "-"
+  },
+  {
+    "item": "Great Farm Soil",
+    "ingredients": [
+      {
+        "price1": "5c",
+        "price2": "10c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Block",
+    "category": "Farming",
+    "rarity": "-"
+  },
+  {
+    "item": "Rocky Farm Soil",
+    "ingredients": [
+      {
+        "price1": "2c",
+        "price2": "4c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Block",
+    "category": "Farming",
+    "rarity": "-"
+  },
+  {
+    "item": "Corn Seeds",
+    "ingredients": [
+      {
+        "price1": "-c",
+        "price2": "-c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Seed",
+    "category": "Farming",
+    "rarity": "-"
+  },
+  {
+    "item": "Eggplant Seeds",
+    "ingredients": [
+      {
+        "price1": "-c",
+        "price2": "-c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Seed",
+    "category": "Farming",
+    "rarity": "-"
+  },
+  {
+    "item": "Fairy Seeds",
+    "ingredients": [
+      {
+        "price1": "-c",
+        "price2": "-c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Seed",
+    "category": "Farming",
+    "rarity": "-"
+  },
+  {
+    "item": "Potato Seeds",
+    "ingredients": [
+      {
+        "price1": "-c",
+        "price2": "-c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Seed",
+    "category": "Farming",
+    "rarity": "-"
+  },
+  {
+    "item": "Tomato Seeds",
+    "ingredients": [
+      {
+        "price1": "-c",
+        "price2": "-c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Seed",
+    "category": "Farming",
+    "rarity": "-"
+  },
+  {
+    "item": "Wheat Seeds",
+    "ingredients": [
+      {
+        "price1": "-c",
+        "price2": "-c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Seed",
+    "category": "Farming",
+    "rarity": "-"
+  },
+  {
+    "item": "Corn Crop",
+    "ingredients": [
+      {
+        "price1": "2/c",
+        "price2": "1/2c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Crop",
+    "category": "Farming",
+    "rarity": "-"
+  },
+  {
+    "item": "Egg Plant Crop",
+    "ingredients": [
+      {
+        "price1": "1c",
+        "price2": "3c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Crop",
+    "category": "Farming",
+    "rarity": "-"
+  },
+  {
+    "item": "Potato Crop",
+    "ingredients": [
+      {
+        "price1": "4/c",
+        "price2": "2/c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Crop",
+    "category": "Farming",
+    "rarity": "-"
+  },
+  {
+    "item": "Tomato Crop",
+    "ingredients": [
+      {
+        "price1": "6/c",
+        "price2": "4/c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Crop",
+    "category": "Farming",
+    "rarity": "-"
+  },
+  {
+    "item": "Wheat Crop",
+    "ingredients": [
+      {
+        "price1": "1c",
+        "price2": "3c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Crop",
+    "category": "Farming",
+    "rarity": "-"
+  },
+  {
+    "item": "Black Marble",
+    "ingredients": [
+      {
+        "price1": "1/c",
+        "price2": "1/3c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Block",
+    "category": "Blocks",
+    "rarity": "-"
+  },
+  {
+    "item": "Blue Marble",
+    "ingredients": [
+      {
+        "price1": "1/c",
+        "price2": "1/3/c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Block",
+    "category": "Blocks",
+    "rarity": "-"
+  },
+  {
+    "item": "Cave Lava Cracks",
+    "ingredients": [
+      {
+        "price1": "6/c",
+        "price2": "1/c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Block",
+    "category": "Blocks",
+    "rarity": "-"
+  },
+  {
+    "item": "Cave Wall",
+    "ingredients": [
+      {
+        "price1": "6/c",
+        "price2": "2/c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Block",
+    "category": "Blocks",
+    "rarity": "-"
+  },
+  {
+    "item": "Coral",
+    "ingredients": [
+      {
+        "price1": "1/c",
+        "price2": "3/c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Block",
+    "category": "Blocks",
+    "rarity": "-"
+  },
+  {
+    "item": "Dark Raw Stone",
+    "ingredients": [
+      {
+        "price1": "1/3c",
+        "price2": "2/c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Block",
+    "category": "Blocks",
+    "rarity": "-"
+  },
+  {
+    "item": "Deep Cave Wall",
+    "ingredients": [
+      {
+        "price1": "6/c",
+        "price2": "1/c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Block",
+    "category": "Blocks",
+    "rarity": "-"
+  },
+  {
+    "item": "Deep Forest Grass",
+    "ingredients": [
+      {
+        "price1": "8/c",
+        "price2": "12/c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Block",
+    "category": "Blocks",
+    "rarity": "Common"
+  },
+  {
+    "item": "Diamond",
+    "ingredients": [
+      {
+        "price1": "1/7c",
+        "price2": "1/15c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Block",
+    "category": "Blocks",
+    "rarity": "-"
+  },
+  {
+    "item": "Dirt",
+    "ingredients": [
+      {
+        "price1": "10/c",
+        "price2": "15/c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Block",
+    "category": "Blocks",
+    "rarity": "Common"
+  },
+  {
+    "item": "Emerald",
+    "ingredients": [
+      {
+        "price1": "1/7c",
+        "price2": "1/15c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Block",
+    "category": "Blocks",
+    "rarity": "-"
+  },
+  {
+    "item": "Grass",
+    "ingredients": [
+      {
+        "price1": "7/c",
+        "price2": "11/c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Block",
+    "category": "Blocks",
+    "rarity": "Common"
+  },
+  {
+    "item": "Green Goop",
+    "ingredients": [
+      {
+        "price1": "1/c",
+        "price2": "5/c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Block",
+    "category": "Blocks",
+    "rarity": "-"
+  },
+  {
+    "item": "Ice",
+    "ingredients": [
+      {
+        "price1": "3/c",
+        "price2": "6/c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Block",
+    "category": "Blocks",
+    "rarity": "-"
+  },
+  {
+    "item": "Lava",
+    "ingredients": [
+      {
+        "price1": "1/c",
+        "price2": "5/c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Block",
+    "category": "Blocks",
+    "rarity": "-"
+  },
+  {
+    "item": "Mesa",
+    "ingredients": [
+      {
+        "price1": "10/c",
+        "price2": "15/c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Block",
+    "category": "Blocks",
+    "rarity": "-"
+  },
+  {
+    "item": "Mesa Top",
+    "ingredients": [
+      {
+        "price1": "10/c",
+        "price2": "15/c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Block",
+    "category": "Blocks",
+    "rarity": "-"
+  },
+  {
+    "item": "Mountain",
+    "ingredients": [
+      {
+        "price1": "10/c",
+        "price2": "15/c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Block",
+    "category": "Blocks",
+    "rarity": "-"
+  },
+  {
+    "item": "Mountain Grass",
+    "ingredients": [
+      {
+        "price1": "8/c",
+        "price2": "12/c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Block",
+    "category": "Blocks",
+    "rarity": "Common"
+  },
+  {
+    "item": "Mud",
+    "ingredients": [
+      {
+        "price1": "2/c",
+        "price2": "6/c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Block",
+    "category": "Blocks",
+    "rarity": "Common"
+  },
+  {
+    "item": "Oil",
+    "ingredients": [
+      {
+        "price1": "2/c",
+        "price2": "5/c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Block",
+    "category": "Blocks",
+    "rarity": "-"
+  },
+  {
+    "item": "Ruby",
+    "ingredients": [
+      {
+        "price1": "1/20c",
+        "price2": "1/40c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Block",
+    "category": "Blocks",
+    "rarity": "-"
+  },
+  {
+    "item": "Sand",
+    "ingredients": [
+      {
+        "price1": "8/c",
+        "price2": "12/c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Block",
+    "category": "Blocks",
+    "rarity": "Common"
+  },
+  {
+    "item": "Half Sand",
+    "ingredients": [
+      {
+        "price1": "25/c",
+        "price2": "5/c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Block",
+    "category": "Blocks",
+    "rarity": "Common"
+  },
+  {
+    "item": "Snow",
+    "ingredients": [
+      {
+        "price1": "4/c",
+        "price2": "8/c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Block",
+    "category": "Blocks",
+    "rarity": "Common"
+  },
+  {
+    "item": "Soil",
+    "ingredients": [
+      {
+        "price1": "4/c",
+        "price2": "8/c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Block",
+    "category": "Blocks",
+    "rarity": "Common"
+  },
+  {
+    "item": "Stone Lava Cracks",
+    "ingredients": [
+      {
+        "price1": "6/c",
+        "price2": "1/c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Block",
+    "category": "Blocks",
+    "rarity": "-"
+  },
+  {
+    "item": "Tropical Grass",
+    "ingredients": [
+      {
+        "price1": "5/c",
+        "price2": "10/c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Block",
+    "category": "Blocks",
+    "rarity": "Common"
+  },
+  {
+    "item": "Water",
+    "ingredients": [
+      {
+        "price1": "8/c",
+        "price2": "12/c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Block",
+    "category": "Blocks",
+    "rarity": "Common"
+  },
+  {
+    "item": "White Marble",
+    "ingredients": [
+      {
+        "price1": "2/c",
+        "price2": "1/3c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Block",
+    "category": "Blocks",
+    "rarity": "-"
+  },
+  {
+    "item": "Chest",
+    "ingredients": [
+      {
+        "price1": "1c",
+        "price2": "10c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Misc",
+    "category": "Blocks",
+    "rarity": "-"
+  },
+  {
+    "item": "Rehydrator",
+    "ingredients": [
+      {
+        "price1": "10c",
+        "price2": "50c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Misc",
+    "category": "Blocks",
+    "rarity": "-"
+  },
+  {
+    "item": "Workbench",
+    "ingredients": [
+      {
+        "price1": "3c",
+        "price2": "10c",
+        "price": "0"
+      }
+    ],
+    "state": "Stable",
+    "type": "Misc",
+    "category": "Blocks",
+    "rarity": "-"
+  }
+]
